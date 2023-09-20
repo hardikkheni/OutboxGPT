@@ -1,11 +1,11 @@
 {
   "web": {
-    "client_id": "708496704780-mdt2nom4k8q6qiqgtvuku89jr3u28vol.apps.googleusercontent.com",
+    "client_id": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com",
     "project_id": "ai-email-writer-8fbcc",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_secret": "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",
+    "client_secret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     "redirect_uris": ["http://localhost:3001/Oauth/Google"],
     "javascript_origins": ["http://localhost", "http://localhost:3001"]
   }

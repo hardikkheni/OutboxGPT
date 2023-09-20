@@ -83,8 +83,8 @@ Configure Google Project, Miscrosoft Azure App, Firebase and Stripe
     - Set env variables
         ```
         # MSAL creds
-        MSAL_CLIENT_ID="f502cef2-ac21-4670-b99c-6ef6e4e5058f"
-        MSAL_CLIENT_SECRET="mW_8Q~zqf2gNae0EqoHZZc2pYVPG.3SDEC6iObts"
+        MSAL_CLIENT_ID="xxxxxxxxxxxx-ac21-4670-b99c-xxxxxxxxxxxx"
+        MSAL_CLIENT_SECRET="mW_8Q~xxxxxxxxxxxx.xxxxxxxxxxxx"
         ```
 4. Mongo DB
     - Change env variable
@@ -105,6 +105,6 @@ Configure Google Project, Miscrosoft Azure App, Firebase and Stripe
     - Change env variables
         ```
         # Stripe key
-        STRIPE_SECRET_KEY="sk_test_51NLgpMSDjJFmZO7xUQHWz6gazTmD82Canrg7bu6AOHF7RXFRKVXToGX9GQRq0MhfAXZQeB6kLi0phmNo0U5GGEvz00aOqPvWZ4"
-        STRIPE_WEBHOOK_SECRET="whsec_eZ1bYv90kljRZBXw1uikbVqwm5ONCH6A"
+        STRIPE_SECRET_KEY="sk_test_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+        STRIPE_WEBHOOK_SECRET="whsec_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
         ```
